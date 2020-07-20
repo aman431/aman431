@@ -1,4 +1,4 @@
-### Hello Aman here 👋
+### Hello 🙂
 
 <!--
 **aman431/aman431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
