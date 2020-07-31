@@ -9,7 +9,7 @@
 ### Connect with me:
 <!--<a href="https://github.com/aman431/"><img align="left"  width="22px" src="images/Github.png" /></a>-->
 
-<a href="https://ar7.netlify.app"<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://ar7.netlify.app"><img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <!--<img align="left" alt="https://twitter.com/AmanRat08689082" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="https://www.linkedin.com/in/aman-rathore-28161014a" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />-->
