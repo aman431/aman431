@@ -1,4 +1,9 @@
-### HII I'M Aman Rathore
+### Hi there, I'm Aman Rathore
+
+## I'm a Student, Learner and Developer!
+- 🔭 I’m currently working on a Web Development(Chrome Extension)!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Contribute more to Open Source project
 <!--
 **aman431/aman431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
