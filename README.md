@@ -2,7 +2,7 @@
 
 ## I'm a Student, Learner, Explorer, and Developer!
 - 🔭 I’m currently working on a Web Development(Chrome Extension)!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Contribute more to Open Source project
 - ⚡ Fun fact: I love to play Football and Dance
 
