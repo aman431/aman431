@@ -20,6 +20,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Netbeans" width="26px" src="https://github.com/aman431/aman431/blob/master/images/Netbeans.png" />
 <img align="left" alt="Turbo" width="26px" src="https://github.com/aman431/aman431/blob/master/images/Turbo.png" />
+<img align="left" alt="Vim" width="26px" src="https://github.com/aman431/aman431/blob/master/images/vim.png" />
 <img align="left" alt="C" width="26px" src="https://github.com/aman431/aman431/blob/master/images/c.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/aman431/aman431/blob/master/images/C++.png" />
 <img align="left" alt="Core Java" width="26px" src="https://github.com/aman431/aman431/blob/master/images/Java.png" />
