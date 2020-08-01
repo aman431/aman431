@@ -1,9 +1,9 @@
-### Hi there, I'm Aman Rathore
+### Hi there, I'm Aman Rathore 👋
 
 ## I'm a Student, Learner, Explorer, and Developer!
 - 🔭 I’m currently working on a Web Development(Chrome Extension)!
-- 🌱 I’m currently learning everything
-- 🥅 2020 Goals: Contribute more to Open Source project
+- 🌱 I’m currently learning everything 😀😀
+- 🥅 2020 Goals: Explore Everything 🌐
 - ⚡ Fun fact: I love to play Football and Dance
 
 ### Connect with me:
