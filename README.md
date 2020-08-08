@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 😀😀
 - 🥅 2020 Goals: Explore Everything 🌐
 - ⚡ Fun fact: I love to play Football and Dance
-- 🗄️ Portfolio: https://aman431.github.io/portfillo/
+- 📃 Portfolio: https://aman431.github.io/portfillo/
 
 ### Connect with me:
 
