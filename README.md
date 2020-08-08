@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything 😀😀
 - 🥅 2020 Goals: Explore Everything 🌐
 - ⚡ Fun fact: I love to play Football and Dance
+- 🗄️ Portfolio: https://ar7.netlify.app/
 
 ### Connect with me:
 
