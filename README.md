@@ -1,7 +1,7 @@
 ### Hi there, I'm Aman Rathore 👋
 
 ## I'm a Student, Learner, Explorer, and Developer!
-- 🔭 I’m currently working on a Web Development(Chrome Extension)!
+- 🔭 I’m currently working on a Web Development(React Js and Redux)!
 - 🌱 I’m currently learning everything 😀😀
 - 🥅 2020 Goals: Explore Everything 🌐
 - ⚡ Fun fact: I love to play Football and Dance
