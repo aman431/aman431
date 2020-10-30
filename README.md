@@ -5,7 +5,7 @@
 
 <a href="https://ar7.netlify.app"><img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://twitter.com/AmanRat08689082"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/aman-rathore-28161014a"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/amanrathore_7"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/17_ar_7/?hl=en"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/aman.rathod.9022"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
@@ -23,7 +23,6 @@
 [![Twitter: amanrathore_7](https://img.shields.io/twitter/follow/AR7?style=social)](https://twitter.com/amanrathore_7)
 [![Linkedin: aman-rathore-28161014a](https://img.shields.io/badge/-AR7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-rathore-28161014a/)](https://www.linkedin.com/in/aman-rathore-28161014a/)
 [![website](https://img.shields.io/badge/PortfolioWebsite-aman.live-2648ff?style=flat-square&logo=google-chrome)](https://ar7.netlify.app/)
-<!--[![GitHub aman431](https://img.shields.io/github/followers/aman431?label=follow&style=social)](https://github.com/aman431)-->
 <br />
 
 ### Languages and Tools:
@@ -58,13 +57,3 @@
 <!--<a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />-->
 
-<!--</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
-</a>-->
-
-<!--[website]: https://ar7.netlify.app/
-[twitter]: https://twitter.com/AmanRat08689082-->
-
-
-<!--[![Aman github stats](https://github-readme-stats.vercel.app/api?username=aman431)](https://github.com/anuraghazra/github-readme-stats)-->
