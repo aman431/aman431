@@ -1,5 +1,4 @@
-### Hi there, I'm Aman Rathore - aka [singhkunal2050][website] 👋
-### Hi there, I'm Kunal - aka [singhkunal2050][website] 👋
+### Hi there, I'm Aman Rathore - aka [aman431][website] 👋
 
 ## I'm a Student, Learner, Explorer, and Developer!
 - 🔭 I’m currently working on a Web Development(React Js and Redux)!
