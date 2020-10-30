@@ -8,6 +8,8 @@
 <a href="https://www.linkedin.com/in/aman-rathore-28161014a"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/17_ar_7/?hl=en"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/aman.rathod.9022"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+
+<br />
 <br />
 
 ## I'm a Student, Learner, Explorer, and Developer!
@@ -17,7 +19,7 @@
 - ⚡ Fun fact: I love to play Football and Dance
 - 📃 Portfolio: https://ar7.netlify.app/
 
-### Connect with me:
+<!--### Connect with me:-->
 
 <!--<a href="https://ar7.netlify.app"><img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://twitter.com/AmanRat08689082"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
