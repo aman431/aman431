@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 😀😀
 - 🥅 2020 Goals: Explore Everything 🌐
 - ⚡ Fun fact: I love to play Football and Dance
-- 📃 Portfolio: https://aman431.github.io/portfillo/
+- 📃 Portfolio: https://ar7.netlify.app/
 
 ### Connect with me:
 
@@ -43,7 +43,7 @@
 <br />
 
 
-[website]: https://aman431.github.io/portfillo/
+[website]: https://ar7.netlify.app/
 [twitter]: https://twitter.com/AmanRat08689082
 
 <br />
