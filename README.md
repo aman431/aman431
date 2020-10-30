@@ -20,8 +20,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to play Football, Dance and songs
 
-[![Twitter: amanrathore_7](https://img.shields.io/twitter/follow/amanrathore_7?style=social)](https://twitter.com/amanrathore_7)
-[![Linkedin: aman-rathore-28161014a](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-rathore-28161014a/)](https://www.linkedin.com/in/aman-rathore-28161014a/)
+[![Twitter: amanrathore_7](https://img.shields.io/twitter/follow/AR7?style=social)](https://twitter.com/amanrathore_7)
+[![Linkedin: aman-rathore-28161014a](https://img.shields.io/badge/-AR7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-rathore-28161014a/)](https://www.linkedin.com/in/aman-rathore-28161014a/)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
