@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on a Web Development(React Js and React Native)!
 - 🌱 I’m currently learning everything 😀😀
 - 🥅 2020 Goals: Explore Everything 🌐
-- 📫 How to reach me: [Twitter - @amanrathore_7](https://twitter.com/amanrathore_7)
+- 📫 How to reach me: [Twitter - @AR7](https://twitter.com/amanrathore_7)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to play Football, Dance and songs
 
