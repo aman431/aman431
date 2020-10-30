@@ -16,8 +16,14 @@
 - 🔭 I’m currently working on a Web Development(React Js and React Native)!
 - 🌱 I’m currently learning everything 😀😀
 - 🥅 2020 Goals: Explore Everything 🌐
-- ⚡ Fun fact: I love to play Football and Dance
-- 📃 Portfolio: https://ar7.netlify.app/
+- 📫 How to reach me: [Twitter - @amanrathore_7](https://twitter.com/amanrathore_7)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love to play Football, Dance and songs
+
+[![Twitter: amanrathore_7](https://img.shields.io/twitter/follow/amanrathore_7?style=social)](https://twitter.com/amanrathore_7)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
 <!--### Connect with me:-->
 
