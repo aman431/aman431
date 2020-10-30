@@ -53,7 +53,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman431&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/aman431">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aman431&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aman431&show_icons=true&theme=light&line_height=27" alt="Aman github stats"/>
 </a>
 <!--<a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />-->
@@ -65,10 +65,6 @@
 
 <!--[website]: https://ar7.netlify.app/
 [twitter]: https://twitter.com/AmanRat08689082-->
-
-<br />
-<br />
-
 
 
 <!--[![Aman github stats](https://github-readme-stats.vercel.app/api?username=aman431)](https://github.com/anuraghazra/github-readme-stats)-->
