@@ -3,6 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman431&label=Views&color=blue&style=plastic" alt="aman431" /> </p>
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/AmanRat08689082?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAmanRat08689082&screen_name=aman431)-->
 
+<a href="https://ar7.netlify.app"><img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://twitter.com/AmanRat08689082"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/aman-rathore-28161014a"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/17_ar_7/?hl=en"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/aman.rathod.9022"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<br />
+
 ## I'm a Student, Learner, Explorer, and Developer!
 - 🔭 I’m currently working on a Web Development(React Js and React Native)!
 - 🌱 I’m currently learning everything 😀😀
@@ -12,11 +19,11 @@
 
 ### Connect with me:
 
-<a href="https://ar7.netlify.app"><img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<!--<a href="https://ar7.netlify.app"><img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://twitter.com/AmanRat08689082"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/aman-rathore-28161014a"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/17_ar_7/?hl=en"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/aman.rathod.9022"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.facebook.com/aman.rathod.9022"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>-->
 <br />
 
 ### Languages and Tools:
