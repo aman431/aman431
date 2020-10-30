@@ -1,5 +1,6 @@
 ### Hi there, I'm [Aman Rathore](https://ar7.netlify.app/) 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/AmanRat08689082?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAmanRat08689082&screen_name=aman431)-->
 
 ## I'm a Student, Learner, Explorer, and Developer!
