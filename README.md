@@ -52,7 +52,6 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/aman431/aman431/blob/master/images/Bootstrap.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!--<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />-->
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <a href="https://github.com/aman431">
@@ -69,9 +68,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a>
 
-
-[website]: https://ar7.netlify.app/
-[twitter]: https://twitter.com/AmanRat08689082
+<!--[website]: https://ar7.netlify.app/
+[twitter]: https://twitter.com/AmanRat08689082-->
 
 <br />
 <br />
