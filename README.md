@@ -22,8 +22,8 @@
 
 [![Twitter: amanrathore_7](https://img.shields.io/twitter/follow/AR7?style=social)](https://twitter.com/amanrathore_7)
 [![Linkedin: aman-rathore-28161014a](https://img.shields.io/badge/-AR7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-rathore-28161014a/)](https://www.linkedin.com/in/aman-rathore-28161014a/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![GitHub aman431](https://img.shields.io/github/followers/aman431?label=follow&style=social)](https://github.com/aman431)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://ar7.netlify.app/)
 
 <!--### Connect with me:-->
 
