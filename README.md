@@ -1,10 +1,5 @@
 
 # Hi there, I'm Aman - aka [amanrathore][website] 👋
-<!-- ## Why are you not at [my website yet][website] 🙄❓
-
-<a href="https://singhkunal2050.dev" target="_blank">
-<img src="https://raw.githubusercontent.com/singhkunal2050/singhkunal2050/master/img/singhkunal2050-cover3.png" alt=singhkunal2050-cover style="margin-bottom: 5px;" />
-</a> -->
 
 ## Connect with me  
 
@@ -18,11 +13,8 @@
 <a href="https://twitter.com/amanrathore_7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<!-- <a href="https://codepen.io/singhkunal2050" target="_blank">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-</a> -->
 
-[![Website](https://img.shields.io/website?label=amanrathore.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://singhkunal2050.dev)
+[![Website](https://img.shields.io/website?label=amanrathore.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://ar7.netlify.app/)
 
 
 ### Languages and Tools:
@@ -77,7 +69,7 @@
 
 </p>
 
-[website]: https://singhkunal2050.dev
+[website]: https://ar7.netlify.app/
 [twitter]: https://twitter.com/amanrathore_7
 [instagram]: https://www.instagram.com/coden.inja/?hl=en
 [linkedin]: https://www.linkedin.com/in/aman-rathore-28161014a/
