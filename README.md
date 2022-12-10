@@ -1,28 +1,28 @@
 
 # Hi there, I'm Aman 👋
-## Why are you not at [my website yet][website] 🙄❓
+<!-- ## Why are you not at [my website yet][website] 🙄❓
 
 <a href="https://singhkunal2050.dev" target="_blank">
 <img src="https://raw.githubusercontent.com/singhkunal2050/singhkunal2050/master/img/singhkunal2050-cover3.png" alt=singhkunal2050-cover style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
 ## Connect with me  
 
 <div align="center">
- <a href="https://www.linkedin.com/in/singhkunal2050" target="_blank">
+ <a href="https://www.linkedin.com/in/aman-rathore-28161014a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/singhkunal2050" target="_blank">
+<a href="https://github.com/aman431" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/singhkunal2050" target="_blank">
+<a href="https://twitter.com/amanrathore_7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.io/singhkunal2050" target="_blank">
+<!-- <a href="https://codepen.io/singhkunal2050" target="_blank">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
-[![Website](https://img.shields.io/website?label=singhkunal2050.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://singhkunal2050.dev)
+[![Website](https://img.shields.io/website?label=amanrathore.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://singhkunal2050.dev)
 
 
 ### Languages and Tools:
