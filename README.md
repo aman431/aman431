@@ -67,21 +67,20 @@
 
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aman431&show_icons=true&theme=dark"></img>
+   <img src="https://github-readme-stats.vercel.app/api?username=Amansworks07&show_icons=true&theme=dark"></img>
 </div>
 
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=singhkunal2050)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aman431)
 
 
 </p>
 
 [website]: https://singhkunal2050.dev
-[twitter]: https://twitter.com/singhkunal2050
-[youtube]: https://youtube.com/singhkunal2050
-[instagram]: https://instagram.com/singhkunal2050
-[linkedin]: https://linkedin.com/in/singhkunal2050
+[twitter]: https://twitter.com/amanrathore_7
+[instagram]: https://www.instagram.com/coden.inja/?hl=en
+[linkedin]: https://www.linkedin.com/in/aman-rathore-28161014a/
 [BrandNeev]: http://brandneev.kernculture.com/
 
 <br />
