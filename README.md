@@ -1,10 +1,10 @@
 
 # Hi there, I'm Aman 👋
-<!-- ## Why are you not at [my website yet][website] 🙄❓
+## Why are you not at [my website yet][website] 🙄❓
 
 <a href="https://singhkunal2050.dev" target="_blank">
 <img src="https://raw.githubusercontent.com/singhkunal2050/singhkunal2050/master/img/singhkunal2050-cover3.png" alt=singhkunal2050-cover style="margin-bottom: 5px;" />
-</a> -->
+</a>
 
 ## Connect with me  
 
