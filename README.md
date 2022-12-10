@@ -1,5 +1,5 @@
 
-# Hi there, I'm Aman 👋
+# Hi there, I'm Aman - aka [amanrathore][website] 👋
 <!-- ## Why are you not at [my website yet][website] 🙄❓
 
 <a href="https://singhkunal2050.dev" target="_blank">
