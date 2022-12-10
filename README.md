@@ -55,7 +55,7 @@
 ## I'm a Developer, Instructor, Student, Learner!
 <p align="center"> 
 - 🔭 I’m currently working on Something Exciting!
-- 🌱 I’m currently learning React and new JS Libraries
+- 🌱 I’m currently learning Nest and new JS Libraries
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love to play football and spend time in nature.
