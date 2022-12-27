@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-[![Website](https://img.shields.io/website?label=amanrathore.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://ar7.netlify.app/)
+[![Website](https://img.shields.io/website?label=amanrathore.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://amanrathod.netlify.app/)
 
 
 ### Languages and Tools:
