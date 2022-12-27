@@ -69,7 +69,7 @@
 
 </p>
 
-[website]: https://ar7.netlify.app/
+[website]: https://amanrathod.netlify.app/
 [twitter]: https://twitter.com/amanrathore_7
 [instagram]: https://www.instagram.com/coden.inja/?hl=en
 [linkedin]: https://www.linkedin.com/in/aman-rathore-28161014a/
