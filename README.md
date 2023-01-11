@@ -1,4 +1,4 @@
-# Hi there, I'm Aman - aka [amanrathore][website] 👋
+# Hi there, I'm Aman Rathore - aka [AR7][website] 👋
 
 ## Connect with me  
 
