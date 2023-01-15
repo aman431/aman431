@@ -1,5 +1,12 @@
 # Hi there, I'm Aman Rathore - aka [AR7][website] 👋
 
+<div align="center">
+  <img src ="./banner.png" />
+  
+</div>
+
+<br />
+
 ## Connect with me  
 
 <div align="center">
