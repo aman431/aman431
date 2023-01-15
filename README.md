@@ -1,7 +1,7 @@
 # Hi there, I'm Aman Rathore - aka [AR7][website] 👋
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./BannerImg.png" />
   
 </div>
 
